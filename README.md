@@ -1,6 +1,6 @@
 # Hi 👋 I'm Pavithra
 
-🎓 Electrical & Electronics Engineering Graduate (2025)
+Engineering Graduate (2025)
 💻 Aspiring Full Stack Developer
 🌱 Currently learning Java, DSA & React
 
